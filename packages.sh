@@ -1,2 +1,2 @@
 #!/bin/bash
-dpkg-deb -bZgzip projects/Ayeris debs
+dpkg-deb -bZgzip projects/ayeris debs
