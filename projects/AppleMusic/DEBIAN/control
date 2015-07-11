@@ -1,8 +1,0 @@
-Package: com.iOShXr.AppleMusic
-Name: iOShXr
-Version: 1.0
-Architecture: iphoneos-arm
-Description: Home of Apple Music Tweaks
-Maintainer: Aaron Doe
-Author: Aaron Doe <crossfader.host@gmail.com>
-Section: themes
