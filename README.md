@@ -1,12 +1,17 @@
+Hi, This is the official github for Aaron @iOShXr!
 
-Hello and welcome this is the official repo for @iOShXr there's not much here yet
- (nothing infact) but there will be BetterAppleMusicMod and 
-  AppleMusicUnlimited (both coming really soon)
+[NOTE PLAYING AROUND WITH SYSTEM FILES CAN LEAVE YOUR DEVICE DAMAGED OR BRICKED]
 
-   This repo uses HTTPS so its very secure and i doubt it'll ever be down as it runs off GitHub!
+For the two tweaks i host here "BetterWatchNotifications" and "BetterAppleMusicMod"
+download the folder and extract the .dylib and .plist files 
+and put them in this directory on your iOS device...
 
-         Don't forget to add me on Twitter if you don't already! @iOShXr
+/Library/MobileSubstrate/DynamicLibraries/
 
-   
+RESPRING AFTER!!!
 
-Thank you, Aaron! (see you on Twitter)
+Please note the other package i host here "AFC2-84" (Apple File Conduit 2) for iOS 8.4
+is intended for developer use only as it requires being added to the filesystem 
+so install at your own risk.
+
+
